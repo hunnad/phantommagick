@@ -1,6 +1,6 @@
 {
-    "name": "hunnad/phantommagick",
-    "description": "Based on anam/phantommagick. PhantomMagick provides a simple API to ease the process of converting HTML to PDF or images",
+    "name": "anam/phantommagick",
+    "description": "PhantomMagick provides a simple API to ease the process of converting HTML to PDF or images",
     "keywords": [
         "Pdf",
         "Html to pdf",
