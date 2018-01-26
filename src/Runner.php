@@ -142,7 +142,7 @@ class Runner
                 return false;
             }
         } elseif (Str::contains($uname, 'linux')) {
-            if (! shell_exec(escapeshellcmd("which {$binary}"))) {
+            if (shell_exec(escapeshellcmd("which {$binary}"))) {
                 return false;
             }
         } else {
